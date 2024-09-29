@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xinrui Wang (王新睿)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I am a second-year PhD student @ CS college, NUAA"
+  location         : "Nanjing"
+  employer         : "NUAA"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wangxinrui@nuaa.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
