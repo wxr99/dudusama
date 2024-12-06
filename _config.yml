@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/xr_wang.png"
+  avatar           : # "./images/xr_wang.png"
   name             : "Xinrui Wang (王新睿)"
   pronouns         : "he" 
   bio              : "I am a second-year PhD student @ CS college, NUAA"
