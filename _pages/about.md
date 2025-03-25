@@ -16,11 +16,13 @@ Recent News
 
 * _Jan, 2024_ [Pushing One Pair of Labels Apart Each Time in Multi-Label Learning: From Single Positive to Full Labels.](https://arxiv.org/abs/2302.14695) accepted to SCIENCE CHINA Information Sciences.
 
+* _Jan, 2024_ [Adaptive federated minimax optimization with lower complexities.](https://proceedings.mlr.press/v238/huang24c.html) accepted to AISTATS 2024.
+
 * _Dec, 2023_ [Unlocking the Power of Open Set: A New Perspective for Open-set Noisy Label Learning.]([https://arxiv.org/abs/2409.19245](https://ojs.aaai.org/index.php/AAAI/article/view/29469)) accepted to AAAI 2024.
 
 * _Sep, 2023_ [Beyond Myopia: Learning from Positive and Unlabeled Data through Holistic Predictive Trends.](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d5c0f9585592bad5251133813893a6c0-Abstract-Conference.html)) accepted to NeurIPS 2023.
 
 Academic Services
 ======
-* Conference Reviewing: NeurIPS 2024, ICLR 2025, AISTATS 2025, CVPR 2025.
+* Conference Reviewing: NeurIPS 2024/2025, ICLR 2025, AISTATS 2025, CVPR 2025, ICML 2025.
 
