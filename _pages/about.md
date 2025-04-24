@@ -12,7 +12,7 @@ My research interests lie broadly in Machine Learning, especially Continual Lear
 
 Published Works
 ======
-* _April, 2025_ [LoD: Loss-difference OOD Detection by Intentionally Label-Noisifying Unlabeled Wild Data.] accepted to IJCAI 2025.
+* _April, 2025_ LoD: Loss-difference OOD Detection by Intentionally Label-Noisifying Unlabeled Wild Data. accepted to IJCAI 2025.
 
 * _Feb, 2025_ [Enhanced Adaptive Gradient Algorithms for Nonconvex-PL Minimax Optimization.](https://arxiv.org/abs/2303.03984) accepted to AISTATS 2025.
 
