@@ -10,9 +10,13 @@ Hi! I am a third-year PhD student at PAttern Recognition and NEural Computing (P
 
 My research interests lie broadly in Machine Learning, especially Continual Learning Theory and Weakly Supervised Learning – check my [publications](https://scholar.google.com/citations?user=3juyXgQAAAAJ&hl=zh-CN) for more information. I am open to other topics, so feel free to reach out if you’d like to chat!
 
-Published Works
+Recent News
 ======
+* _May, 2025_ Cut out and Replay: A Simple yet Versatile Strategy for Multi-Label Online Continual Learning. accepted to ICML 2025.
+
 * _April, 2025_ LoD: Loss-difference OOD Detection by Intentionally Label-Noisifying Unlabeled Wild Data. accepted to IJCAI 2025.
+
+* _April, 2025_ [Filter, Obstruct and Dilute: Defending Against Backdoor Attacks on Semi-Supervised Learning.](https://arxiv.org/abs/2502.05755) is online.
 
 * _Feb, 2025_ [Enhanced Adaptive Gradient Algorithms for Nonconvex-PL Minimax Optimization.](https://arxiv.org/abs/2303.03984) accepted to AISTATS 2025.
 
@@ -26,9 +30,6 @@ Published Works
 
 * _Sep, 2023_ [Beyond Myopia: Learning from Positive and Unlabeled Data through Holistic Predictive Trends.](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d5c0f9585592bad5251133813893a6c0-Abstract-Conference.html) accepted to NeurIPS 2023.
 
-Under-review Works
-======
-* _April, 2025_ [Filter, Obstruct and Dilute: Defending Against Backdoor Attacks on Semi-Supervised Learning.](https://arxiv.org/abs/2502.05755).
 
 Academic Services
 ======
