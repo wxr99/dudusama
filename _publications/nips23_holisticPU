@@ -3,8 +3,9 @@ title: "Beyond Myopia: Learning from Positive and Unlabeled Data through Holisti
 collection: publications
 category: conferences
 permalink: /publication/nips2023_holisticPU
+excerpt: This paper is about a new perspective to look at PUL at a holistic view of training.
 date: 2023/4
-venue: 'NeurIPS 2023'
+venue: 'NeurIPS'
 slidesurl: 'https://neurips.cc/media/neurips-2023/Slides/71684.pdf'
 paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2023/file/d5c0f9585592bad5251133813893a6c0-Paper-Conference.pdf'
 citation: Xinrui W, Wan W, Geng C, et al. Beyond myopia: Learning from positive and unlabeled data through holistic predictive trends[J]. Advances in Neural Information Processing Systems, 2023, 36: 67589-67602.
