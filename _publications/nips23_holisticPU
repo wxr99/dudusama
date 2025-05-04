@@ -1,7 +1,7 @@
 ---
 title: "Beyond Myopia: Learning from Positive and Unlabeled Data through Holistic Predictive Trends"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/nips2023_holisticPU
 excerpt: Look at the PUL from a holistic view of training.
 date: 2023/4
