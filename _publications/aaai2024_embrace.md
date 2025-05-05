@@ -1,10 +1,9 @@
 ---
-title: "Unlocking the Power of Open Set: A New Perspective for Open-Set Noisy Label Learning
-Authors"
+title: "Unlocking the Power of Open Set: A New Perspective for Open-Set Noisy Label Learning"
 collection: publications
 category: conferences
 permalink: 'https://ojs.aaai.org/index.php/AAAI/article/view/29469/30769'
-excerpt: 'Wenhai Wan, Xinrui Wang, Mingkun Xie, Shengjun Huang, Songcan Chen, Shaoyuan Li'
+excerpt: 'Wenhai Wan^*, Xinrui Wang^*, Mingkun Xie, Shengjun Huang, Songcan Chen, Shaoyuan Li'
 date: 2024-03-24
 venue: 'AAAI'
 paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/29469/30769'
