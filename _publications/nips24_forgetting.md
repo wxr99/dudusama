@@ -2,12 +2,12 @@
 title: "Forgetting, Ignorance or Myopia: Revisiting Key Challenges in Online Continual Learning"
 collection: publications
 category: conferences
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+permalink: 'https://proceedings.neurips.cc/paper_files/paper/2024/file/6b44ee74539ea77d6a0d50d468724371-Paper-Conference.pdf'
+excerpt: 'Wang Xinrui, Chuanxing Geng, Wenhai Wan, Shao-Yuan Li, Songcan Chen.'
 date: 2024-12-11
 venue: 'NeurIPS'
 slidesurl: 'https://neurips.cc/virtual/2024/poster/93601'
-paperurl: 'http://academicpages.github.io/files/slides3.pdf'
+paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2024/file/6b44ee74539ea77d6a0d50d468724371-Paper-Conference.pdf'
 citation: 'Xinrui, Wang, et al. "Forgetting, ignorance or myopia: Revisiting key challenges in online continual learning." The Thirty-eighth Annual Conference on Neural Information Processing Systems. 2024.'
 ---
 
