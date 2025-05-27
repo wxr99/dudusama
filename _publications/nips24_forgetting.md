@@ -3,7 +3,7 @@ title: "Forgetting, Ignorance or Myopia: Revisiting Key Challenges in Online Con
 collection: publications
 category: conferences
 permalink: 'https://proceedings.neurips.cc/paper_files/paper/2024/file/6b44ee74539ea77d6a0d50d468724371-Paper-Conference.pdf'
-excerpt: 'Wang Xinrui, Chuanxing Geng, Wenhai Wan, Shao-Yuan Li, Songcan Chen.'
+excerpt: 'Xinrui Wang, Chuanxing Geng, Wenhai Wan, Shao-Yuan Li, Songcan Chen.'
 date: 2024-12-11
 venue: 'NeurIPS'
 slidesurl: 'https://neurips.cc/virtual/2024/poster/93601'
