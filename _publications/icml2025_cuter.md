@@ -2,7 +2,7 @@
 title: "Cut out and Replay: A Simple yet Versatile Strategy for Multi-Label Online Continual Learning"
 collection: publications
 category: conferences
-permalink:'https://icml.cc/virtual/2025/poster/46225'
+permalink: 'https://icml.cc/virtual/2025/poster/46225'
 excerpt: 'Xinrui Wang, Shao-yuan Li, Jiaqiang Zhang, Songcan Chen'
 date: 2025-7-13
 venue: 'ICML'
