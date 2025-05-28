@@ -1,24 +1,16 @@
 ---
+layout: archive
+title: "CV"
 permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
 ---
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>Redirecting to CV...</title>
-    <script type="text/javascript">
-        // 获取当前路径并构建正确的 PDF 路径
-        var pathArray = window.location.pathname.split('/');
-        var baseIndex = pathArray.indexOf('dudusama');
-        if (baseIndex !== -1) {
-            var basePath = pathArray.slice(0, baseIndex + 1).join('/');
-            window.location.href = basePath + '/files/cv.pdf';
-        } else {
-            window.location.href = '/files/cv.pdf';
-        }
-    </script>
-</head>
-<body>
-    <p>Loading CV...</p>
-</body>
-</html>
+
+{% include base_path %}
+
+<embed src="{{ base_path }}/files/cv.pdf" type="application/pdf" width="100%" height="800px" />
+
+<p style="text-align: center; margin-top: 10px;">
+  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" download>Download CV</a>
+</p>
