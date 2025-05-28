@@ -7,10 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<script type="text/javascript">
+  window.location.href = "/files/cv.pdf";
+</script>
 
-<embed src="{{ base_path }}/files/cv.pdf" type="application/pdf" width="100%" height="800px" />
-
-<p style="text-align: center; margin-top: 10px;">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" download>Download CV</a>
-</p>
+If you are not redirected automatically, please click <a href="/files/cv.pdf">here</a>.
