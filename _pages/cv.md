@@ -11,4 +11,4 @@ redirect_from:
   window.location.href = "/dudusama/files/cv.pdf";
 </script>
 
-If you are not redirected automatically, please click <a href="/files/cv.pdf">here</a>.
+If you are not redirected automatically, please click <a href="/dudusama/files/cv.pdf">here</a>.
