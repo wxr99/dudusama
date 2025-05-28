@@ -13,8 +13,8 @@ title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://wxr99.github.io/dudusama/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/dudusama" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/wxr99"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "https://github.com/wxr99/dudusama"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
