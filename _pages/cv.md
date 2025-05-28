@@ -13,4 +13,4 @@ redirect_from:
   window.location.href = "{{ '/files/cv.pdf' | relative_url }}";
 </script>
 
-<p>Loading CV... If you are not redirected automatically, please click <a href="{{ '/files/cv.pdf' | relative_url }}">here</a>.</p>
+<p>Loading CV... If you are not redirected automatically, please click <a href="{{ '/dudusama/files/cv.pdf' | relative_url }}">here</a>.</p>
