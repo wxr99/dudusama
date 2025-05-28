@@ -7,10 +7,19 @@ redirect_from:
   - /resume
 ---
 
-<meta http-equiv="refresh" content="0; url={{ '/files/cv.pdf' | relative_url }}">
+## Debug Information:
+- Site URL: {{ site.url }}
+- Site BaseURL: {{ site.baseurl }}
+- Relative URL test: {{ '/files/cv.pdf' | relative_url }}
+- Absolute URL test: {{ '/files/cv.pdf' | absolute_url }}
 
-<script type="text/javascript">
-  window.location.href = "{{ '/files/cv.pdf' | relative_url }}";
+## Manual Links:
+- [Link 1: ../files/cv.pdf](../files/cv.pdf)
+- [Link 2: /dudusama/files/cv.pdf](/dudusama/files/cv.pdf)
+- [Link 3: {{ site.baseurl }}/files/cv.pdf]({{ site.baseurl }}/files/cv.pdf)
+- [Link 4: {{ '/files/cv.pdf' | relative_url }}]({{ '/files/cv.pdf' | relative_url }})
+
+<script>
+console.log("Current URL:", window.location.href);
+console.log("Base URL:", "{{ site.baseurl }}");
 </script>
-
-<p>Loading CV... If you are not redirected automatically, please click <a href="{{ '/files/cv.pdf' | relative_url }}">here</a>.</p>
