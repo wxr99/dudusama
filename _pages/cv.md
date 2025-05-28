@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <script type="text/javascript">
-  window.location.href = "{{ '/files/cv.pdf' | relative_url }}";
+  window.location.href = "/dudusama/files/cv.pdf";
 </script>
 
-If you are not redirected automatically, please click <a href="{{ '/files/cv.pdf' | relative_url }}">here</a>.
+If you are not redirected automatically, please click <a href="/dudusama/files/cv.pdf">here</a>.
