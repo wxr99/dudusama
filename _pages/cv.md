@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-<script type="text/javascript">
-  window.location.href = "/files/cv.pdf";
-</script>
+<div style="text-align: center; margin: 20px 0;">
+  <a href="/files/cv.pdf" class="btn btn--primary" download>Download CV (PDF)</a>
+</div>
 
-If you are not redirected automatically, please click <a href="/files/cv.pdf">here</a>.
+<embed src="/files/cv.pdf" type="application/pdf" width="100%" height="800px" />
