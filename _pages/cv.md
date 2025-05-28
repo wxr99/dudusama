@@ -7,8 +7,10 @@ redirect_from:
   - /resume
 ---
 
+<meta http-equiv="refresh" content="0; url={{ '/files/cv.pdf' | relative_url }}">
+
 <script type="text/javascript">
-  window.location.href = "/dudusama/files/cv.pdf";
+  window.location.href = "{{ '/files/cv.pdf' | relative_url }}";
 </script>
 
-If you are not redirected automatically, please click <a href="/dudusama/files/cv.pdf">here</a>.
+<p>Loading CV... If you are not redirected automatically, please click <a href="{{ '/files/cv.pdf' | relative_url }}">here</a>.</p>
