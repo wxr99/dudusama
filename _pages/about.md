@@ -12,9 +12,9 @@ My research interests lie broadly in Machine Learning, especially Continual Lear
 
 Recent News
 ======
-* _Sep, 2025_ [Global Pre-fixing, Local Adjusting: A Simple yet Effective Contrastive Strategy for Continual Learning.](https://arxiv.org/abs/2509.15347) accepted to FCS.
+* _Sep, 2025_ [Global Pre-fixing, Local Adjusting: A Simple yet Effective Contrastive Strategy for Continual Learning.](https://arxiv.org/abs/2509.15347) accepted to Frontiers of Computer Science (FCS).
 
-* _June, 2025_ [You Never Walk Alone: A Generalizable and Non-Parametric Structure Learning Framework.](https://ieeexplore.ieee.org/abstract/document/11048707) accepted to TNNLS.
+* _June, 2025_ [You Never Walk Alone: A Generalizable and Non-Parametric Structure Learning Framework.](https://ieeexplore.ieee.org/abstract/document/11048707) accepted to IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
 
 * _May, 2025_ [Cut out and Replay: A Simple yet Versatile Strategy for Multi-Label Online Continual Learning.](https://arxiv.org/abs/2505.19680) accepted to ICML 2025.
 
