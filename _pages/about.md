@@ -37,5 +37,6 @@ Recent News
 
 Academic Services
 ======
-* Conference Reviewing: NeurIPS 2024/2025, ICLR 2025, AISTATS 2025, CVPR 2025, ICML 2025.
+* Conference Reviewing: NeurIPS 2024/2025, ICLR 2025/2026, AISTATS 2025/2026, ACML 2025, AAAI 2026, CVPR 2025, ICML 2025.
+* Journal Reviewing: TMLR.
 
