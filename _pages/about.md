@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am a third-year PhD student at PAttern Recognition and NEural Computing (PARNEC) group, NUAA where I am fortunate enough to be advised by [Prof. Songcan Chen](https://scholar.google.com/citations?user=SdPinGIAAAAJ&hl=zh-CN) who is also the leader of [PARNEC](https://parnec.nuaa.edu.cn/) group.
+Hi! I am a third-year PhD student at PAttern Recognition and NEural Computing (PARNEC) group, NUAA where I am fortunate enough to be advised by [Prof. Songcan Chen](https://scholar.google.com/citations?user=SdPinGIAAAAJ&hl=zh-CN) who is also the leader of [PARNEC](https://parnec.nuaa.edu.cn/) group. Currently, I work as a visiting student in Spain closely with [Bartłomiej Twardowski](https://scholar.google.com/citations?user=8yywECgAAAAJ&hl=pl) and [Alexandra Gomez-Villa](https://scholar.google.com/citations?user=A2dhwNgAAAAJ&hl=es) in [LAMP](http://lamp.cvc.uab.es/) team, led by Dr. [Joost van de Weijer](https://scholar.google.com/citations?user=Gsw2iUEAAAAJ&hl=en) in Computer Vision Center, Autonomous University of Barcelona, Spain.
 
 My research interests lie broadly in Machine Learning, especially Continual Learning Theory and Weakly Supervised Learning – check my [Google Scholar](https://scholar.google.com/citations?user=3juyXgQAAAAJ&hl=zh-CN) for more information. I am open to other topics, so feel free to reach out if you’d like to chat!
 
