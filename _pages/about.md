@@ -12,6 +12,10 @@ My research interests lie broadly in Machine Learning, especially Continual Lear
 
 Recent News
 ======
+* _May, 2026_ [Online Continual Learning with Dynamic Label Hierarchies.] accepted to ICML 2026.
+  
+* _May, 2026_ [Shortcut-Resistant CAM Distillation for Long-Tailed Recognition.] accepted to ICML 2026.
+
 * _March, 2026_ [Filter, Obstruct and Dilute: Defending Against Backdoor Attacks on Semi-Supervised Learning.](https://ieeexplore.ieee.org/document/11456197) accepted to IEEE Transactions on Information Forensics & Security (TIFS).
 
 * _Sep, 2025_ [Global Pre-fixing, Local Adjusting: A Simple yet Effective Contrastive Strategy for Continual Learning.](https://arxiv.org/abs/2509.15347) accepted to Frontiers of Computer Science (FCS).
