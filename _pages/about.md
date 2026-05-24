@@ -6,15 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am a third-year PhD student at PAttern Recognition and NEural Computing (PARNEC) group, NUAA where I am fortunate enough to be advised by [Prof. Songcan Chen](https://scholar.google.com/citations?user=SdPinGIAAAAJ&hl=zh-CN) who is also the leader of [PARNEC](https://parnec.nuaa.edu.cn/) group. Currently, I work as a visiting student in Spain closely with [Bartłomiej Twardowski](https://scholar.google.com/citations?user=8yywECgAAAAJ&hl=pl) and [Alexandra Gomez-Villa](https://scholar.google.com/citations?user=A2dhwNgAAAAJ&hl=es) in [LAMP](http://lamp.cvc.uab.es/) team, led by Dr. [Joost van de Weijer](https://scholar.google.com/citations?user=Gsw2iUEAAAAJ&hl=en) in Computer Vision Center, Autonomous University of Barcelona, Spain.
+Hi! I am a fourth-year PhD student at PAttern Recognition and NEural Computing (PARNEC) group, NUAA where I am fortunate enough to be advised by [Prof. Songcan Chen](https://scholar.google.com/citations?user=SdPinGIAAAAJ&hl=zh-CN) who is also the leader of [PARNEC](https://parnec.nuaa.edu.cn/) group. Currently, I work as a visiting student in Spain closely with [Bartłomiej Twardowski](https://scholar.google.com/citations?user=8yywECgAAAAJ&hl=pl) and [Alexandra Gomez-Villa](https://scholar.google.com/citations?user=A2dhwNgAAAAJ&hl=es) in [LAMP](http://lamp.cvc.uab.es/) team, led by Dr. [Joost van de Weijer](https://scholar.google.com/citations?user=Gsw2iUEAAAAJ&hl=en) in Computer Vision Center, Autonomous University of Barcelona, Spain.
 
-My research interests lie broadly in Machine Learning, especially Continual Learning Theory and Weakly Supervised Learning – check my [Google Scholar](https://scholar.google.com/citations?user=3juyXgQAAAAJ&hl=zh-CN) for more information. I am open to other topics, so feel free to reach out if you’d like to chat!
+My research interests lie broadly in Machine Learning, especially Continual Learning, Weakly Supervised Learning, Backdoor Safety and Multi-Modal LLMs – check my [Google Scholar](https://scholar.google.com/citations?user=3juyXgQAAAAJ&hl=zh-CN) for more information. I am currently seeking new opportunities as a postdoc or researcher in the industry, approximately starting in October, 2026. I am open to discussing potential collaborations or openings that align with my research expertise. Feel free to reach out if you’d like to chat!
 
 Recent News
 ======
-* _May, 2026_ Online Continual Learning with Dynamic Label Hierarchies. accepted to ICML 2026.
+* _May, 2026_ [Online Continual Learning with Dynamic Label Hierarchies.](https://arxiv.org/abs/2605.11742) accepted to ICML 2026.
   
-* _May, 2026_ Shortcut-Resistant CAM Distillation for Long-Tailed Recognition. accepted to ICML 2026.
+* _May, 2026_ [Shortcut-Resistant CAM Distillation for Long-Tailed Recognition.](https://openreview.net/forum?id=pDrQ4YeSIr) accepted to ICML 2026.
 
 * _March, 2026_ [Filter, Obstruct and Dilute: Defending Against Backdoor Attacks on Semi-Supervised Learning.](https://ieeexplore.ieee.org/document/11456197) accepted to IEEE Transactions on Information Forensics & Security (TIFS).
 
